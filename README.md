@@ -74,13 +74,13 @@ Silakan mengunduh versi terbaru melalui Google Drive:
 
 # 📸 Screenshot
 
-![Home](assets/home.png)
+![Home](assets/home.jpeg)
 
-![Kamus](assets/kamus.png)
+![Kamus](assets/kamus.jpeg)
 
-![Game](assets/game.png)
+![Game](assets/game.jpeg)
 
-![Level](assets/level.png)
+![Level](assets/level.jpeg)
 
 ---
 
