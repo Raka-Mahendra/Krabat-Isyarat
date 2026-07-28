@@ -74,22 +74,6 @@ Silakan mengunduh versi terbaru melalui Google Drive:
 
 # 📸 Screenshot
 
-Tambahkan screenshot aplikasi pada folder berikut:
-
-```
-assets/
-├── home.png
-├── kamus.png
-├── game.png
-├── level.png
-└── reward.png
-```
-
-Lalu tampilkan di README menggunakan markdown:
-
-```md
-## Screenshot
-
 ![Home](assets/home.png)
 
 ![Kamus](assets/kamus.png)
@@ -97,7 +81,6 @@ Lalu tampilkan di README menggunakan markdown:
 ![Game](assets/game.png)
 
 ![Level](assets/level.png)
-```
 
 ---
 
@@ -106,8 +89,6 @@ Lalu tampilkan di README menggunakan markdown:
 - Scratch 3.0
 - Scratch Block Programming
 - Canva (Asset Design)
-
----
 
 ---
 
