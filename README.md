@@ -119,9 +119,3 @@ Seluruh hak cipta dilindungi.
 Aplikasi ini hanya diperbolehkan untuk digunakan sebagai media pembelajaran.
 
 Dilarang mendistribusikan ulang, memodifikasi, atau memperjualbelikan aplikasi tanpa izin dari pengembang.
-
----
-
-## ❤️ Visi
-
-_"Belajar Bahasa Isyarat Hari Ini, Mewujudkan Komunikasi Inklusif Esok Hari."_
