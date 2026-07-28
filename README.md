@@ -89,6 +89,7 @@ Silakan mengunduh versi terbaru melalui Google Drive:
 - Scratch 3.0
 - Scratch Block Programming
 - Canva (Asset Design)
+- Figma (Asset Design)
 
 ---
 
