@@ -74,29 +74,14 @@ Silakan mengunduh versi terbaru melalui Google Drive:
 
 # 📸 Screenshot
 
-Tambahkan screenshot aplikasi pada folder berikut:
+[Home](assets/home.jpeg)
 
-```
-assets/
-├── home.png
-├── kamus.png
-├── game.png
-├── level.png
-└── reward.png
-```
+[Kamus](assets/kamus.jpeg)
 
-Lalu tampilkan di README menggunakan markdown:
+[Game](assets/game.jpeg)
 
-```md
-## Screenshot
+[Level](assets/level.jpeg)
 
-![Home](assets/home.jpeg)
-
-![Kamus](assets/kamus.jpeg)
-
-![Game](assets/game.jpeg)
-
-![Level](assets/level.jpeg)
 ```
 
 ---
@@ -142,3 +127,4 @@ Dilarang mendistribusikan ulang, memodifikasi, atau memperjualbelikan aplikasi t
 ## ❤️ Visi
 
 _"Belajar Bahasa Isyarat Hari Ini, Mewujudkan Komunikasi Inklusif Esok Hari."_
+```
