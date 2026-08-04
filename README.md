@@ -68,7 +68,7 @@ Saat ini aplikasi tersedia untuk:
 
 Silakan mengunduh versi terbaru melalui Google Drive:
 
-**https://drive.google.com/file/d/1kL5RchWnDuC51RMc-VoOUajS7QJWQuJI/view?usp=sharing**
+**https://drive.google.com/file/d/1UBvwZR6Pxe2ldPTCyM6zFPrbHDaRx2kH/view?usp=drive_link**
 
 ---
 
