@@ -21,11 +21,7 @@ jobs:
 
       - name: Install & Build
         run: |
-          mkdir -p www
-          npm init -y
-          npm install @capacitor/core @capacitor/cli @capacitor/android
-          npx cap init "Krabat Isyarat" "com.krabatisyarat.app" --web-dir "www"
-          npx cap add android
+          npm install
           npx cap copy
           cd android
           chmod +x gradlew
