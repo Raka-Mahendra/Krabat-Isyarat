@@ -23,13 +23,6 @@ Cocok untuk siapa saja: anak-anak yang baru mulai mengenal SIBI, remaja yang pen
 📱 [**Unduh APK v1.0.1**](https://github.com/Raka-Mahendra/Krabat-Isyarat/releases/download/v1.0.1/Kravat.Isyarat.apk)
 
 Setelah diunduh, izinkan instalasi dari sumber tidak dikenal di pengaturan Android kamu, lalu install seperti biasa.
-## Screenshot
-
-<p float="left">
-  <img src="assets/home.jpeg" width="250" alt="Halaman utama"/>
-  <img src="assets/kamus.jpeg" width="250" alt="Kamus isyarat"/>
-  <img src="assets/game.jpeg" width="250" alt="Mini game"/>
-</p>
 
 ---
 
@@ -69,4 +62,4 @@ Proyek ini menggunakan [Apache License 2.0](LICENSE). Singkatnya: bebas dipakai,
 
 ---
 
-Dibuat untuk mendukung komunikasi yang lebih inklusif. 🤟
+Dibuat untuk mendukung komunikasi yang lebih inklusif.
