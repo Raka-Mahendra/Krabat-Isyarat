@@ -23,6 +23,13 @@ Cocok untuk siapa saja: anak-anak yang baru mulai mengenal SIBI, remaja yang pen
 📱 [**Unduh APK v1.0.1**](https://github.com/Raka-Mahendra/Krabat-Isyarat/releases/download/v1.0.1/Kravat.Isyarat.apk)
 
 Setelah diunduh, izinkan instalasi dari sumber tidak dikenal di pengaturan Android kamu, lalu install seperti biasa.
+## Screenshot
+
+<p float="left">
+  <img src="assets/home.jpeg" width="250" alt="Halaman utama"/>
+  <img src="assets/kamus.jpeg" width="250" alt="Kamus isyarat"/>
+  <img src="assets/game.jpeg" width="250" alt="Mini game"/>
+</p>
 
 ---
 
@@ -32,22 +39,25 @@ Krabat Isyarat dibuat di **Scratch** dan di-package jadi APK Android lewat [Turb
 
 **Tech stack:**
 - Scratch project — `krabat-isyarat.sb3` (source utama, di root repo)
-- [TurboWarp](https://turbowarp.org/) — editor untuk buka & edit `.sb3` (lebih cepat dan lebih banyak fitur dibanding editor Scratch resmi, dan tetap kompatibel)
+- [TurboWarp](https://turbowarp.org/) — editor untuk buka & edit `.sb3`
 - TurboWarp Packager — export project jadi build web (masuk ke folder `www/`)
-- Capacitor + Android Studio — bungkus hasil export jadi APK
+- HTML/JS (folder `www/`)
+- Capacitor untuk wrapping ke Android
+- Android Studio untuk build & signing APK
 
-**Alur kontribusi:**
+**Menjalankan project secara lokal / Alur kontribusi singkat:**
 
-1. Clone repo ini
-2. Buka `krabat-isyarat.sb3` lewat [Scratch offline editor](https://scratch.mit.edu/download) atau [TurboWarp](https://turbowarp.org/editor) (tinggal drag file `.sb3` ke browser)
-3. Edit project sesuai kebutuhan, lalu simpan/export ulang jadi `.sb3` dengan nama yang sama
-4. Kalau perubahanmu perlu di-build ulang jadi APK untuk ditest, pakai [TurboWarp Packager](https://packager.turbowarp.org/) untuk export project ke HTML/JS, lalu:
-   ```bash
-   # salin hasil export ke folder www/, lalu:
-   npx cap sync android
-   npx cap open android
-   ```
-5. Build & test APK lewat Android Studio
+```bash
+git clone https://github.com/Raka-Mahendra/Krabat-Isyarat.git
+cd Krabat-Isyarat
+npm install
+# jika mengedit .sb3: edit di Scratch/TurboWarp lalu export dengan TurboWarp Packager ke folder www/
+# selanjutnya:
+npx cap sync android
+npx cap open android
+```
+
+Dari situ, project bisa dibuka dan di-build lewat Android Studio.
 
 ### Kontribusi
 
@@ -59,4 +69,4 @@ Proyek ini menggunakan [Apache License 2.0](LICENSE). Singkatnya: bebas dipakai,
 
 ---
 
-Dibuat untuk mendukung komunikasi yang lebih inklusif.
+Dibuat untuk mendukung komunikasi yang lebih inklusif. 🤟
