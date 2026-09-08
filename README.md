@@ -1,120 +1,29 @@
 # 🦀 Krabat Isyarat
 
-> **Belajar Bahasa Isyarat SIBI dengan Cara yang Menyenangkan**
+**Belajar SIBI jadi seru!**
 
-Krabat Isyarat merupakan aplikasi/game edukasi berbasis Android yang dirancang untuk membantu anak-anak, remaja, dan masyarakat umum mempelajari **Sistem Isyarat Bahasa Indonesia (SIBI)** melalui pendekatan **Game-Based Learning**.
+Krabat Isyarat adalah game edukasi Android buat belajar Sistem Isyarat Bahasa Indonesia (SIBI). Bukan cuma hafalan, kamu belajar sambil main lewat kamus visual, mini game tebak isyarat, dan sistem level yang bikin ketagihan. Ditemani Crabi, karakter pendamping yang siap nemenin proses belajar kamu.
 
-Dengan konsep **learning by doing**, pengguna dapat belajar bahasa isyarat secara interaktif melalui kamus visual, mini game, sistem level, dan karakter pendamping yang membuat proses belajar menjadi lebih menyenangkan.
+## Fitur Utama
 
----
+- 📚 **Kamus Isyarat Interaktif** — alfabet, angka, dan kata ajaib, semua bisa dilihat langsung
+- 🎮 **Mini Game Tebak Isyarat** — tebak arti gerakan sambil latihan pemahaman
+- ⭐ **Sistem Level** — materi naik bertahap, makin lama makin menantang
+- 🏆 **Sistem Poin** — kumpulin skor biar makin semangat belajar
+- 🦀 **Crabi** — teman virtual yang nemenin kamu belajar
 
-## 📖 Tentang Aplikasi
+## Cara Pakai
 
-Masih banyak masyarakat yang belum mengenal bahasa isyarat karena media pembelajaran yang tersedia cenderung kurang menarik dan sulit diakses.
+1. Download file APK dari [link ini](https://github.com/Raka-Mahendra/Krabat-Isyarat/releases/download/v1.0.0/Krabat.Isyarat.apk)
+2. Install di HP Android kamu
+3. Buka aplikasinya dan mulai eksplorasi kamus isyarat atau langsung main mini game-nya
 
-Krabat Isyarat hadir sebagai solusi pembelajaran yang menggabungkan unsur **edukasi** dan **permainan**, sehingga pengguna dapat belajar bahasa isyarat secara bertahap tanpa merasa bosan.
+## Perlu Diketahui
 
-Aplikasi ini dikembangkan menggunakan platform **Scratch** dengan metode pengembangan **Prototype**, sehingga berfokus pada pengalaman pengguna yang sederhana, interaktif, dan mudah dipahami.
-
----
-
-# ✨ Fitur Utama
-
-- 📚 Kamus Bahasa Isyarat Interaktif
-  - Belajar alfabet
-  - Belajar angka
-  - Kosakata dasar SIBI
-
-- 🎮 Mini Game Tebak Isyarat
-  - Tebak arti gerakan
-  - Latihan memahami bahasa isyarat
-  - Belajar sambil bermain
-
-- ⭐ Sistem Level
-  - Materi bertahap
-  - Tingkat kesulitan meningkat
-
-- 🏆 Sistem Poin
-  - Mendapatkan skor
-  - Memotivasi proses belajar
-
-- 🦀 Karakter Crabi
-  - Pendamping selama proses pembelajaran
-  - Membawa narasi yang inklusif
+- Aplikasi ini cuma tersedia untuk **Android (.apk)**
+- Source code **tidak dibagikan** — repo ini cuma buat dokumentasi aplikasinya
+- Krabat Isyarat dibuat khusus untuk **tujuan pembelajaran**. Dilarang mendistribusikan ulang, memodifikasi, atau memperjualbelikan tanpa izin dari pengembang
 
 ---
 
-# 🎯 Tujuan
-
-Krabat Isyarat dibuat untuk:
-
-- meningkatkan minat belajar bahasa isyarat
-- memperkenalkan komunikasi inklusif sejak dini
-- membantu masyarakat memahami dasar-dasar SIBI
-- mengurangi kesenjangan komunikasi dengan komunitas Tuli
-- menghadirkan media belajar yang menyenangkan
-
----
-
-# 📱 Platform
-
-Saat ini aplikasi tersedia untuk:
-
-- Android (.apk)
-
----
-
-# ⬇️ Download APK
-
-Silakan mengunduh versi terbaru melalui Google Drive:
-
-**https://drive.google.com/file/d/1UBvwZR6Pxe2ldPTCyM6zFPrbHDaRx2kH/view?usp=drive_link**
-
----
-
-# 📸 Screenshot
-
-![Home](assets/home.jpeg)
-
-![Kamus](assets/kamus.jpeg)
-
-![Game](assets/game.jpeg)
-
----
-
-# 🛠 Teknologi
-
-- Scratch 3.0
-- Scratch Block Programming
-- Canva (Asset Design)
-- Figma (Asset Design)
-
----
-
-# 🚫 Source Code
-
-Repository ini **tidak menyediakan source code**.
-
-Krabat Isyarat merupakan proyek yang dipublikasikan hanya dalam bentuk aplikasi (APK).
-
-Source code, asset pengembangan, maupun project Scratch (.sb3) **tidak dibagikan secara publik**.
-
----
-
-# 🤝 Kontribusi
-
-Saat ini proyek belum menerima kontribusi publik karena source code bersifat privat.
-
-Namun, masukan, kritik, dan saran sangat kami apresiasi.
-
----
-
-# 📄 Lisensi
-
-Hak cipta © Krabat Isyarat.
-
-Seluruh hak cipta dilindungi.
-
-Aplikasi ini hanya diperbolehkan untuk digunakan sebagai media pembelajaran.
-
-Dilarang mendistribusikan ulang, memodifikasi, atau memperjualbelikan aplikasi tanpa izin dari pengembang.
+Hak cipta © Krabat Isyarat. Seluruh hak cipta dilindungi.
