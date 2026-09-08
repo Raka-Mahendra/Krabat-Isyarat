@@ -1,6 +1,6 @@
 # 🦀 Krabat Isyarat
 
-**Belajar SIBI jadi seru!**
+**Belajar bahasa isyarat jadi seru!**
 
 Krabat Isyarat adalah game edukasi Android buat belajar Sistem Isyarat Bahasa Indonesia (SIBI). Bukan cuma hafalan, kamu belajar sambil main lewat kamus visual, mini game tebak isyarat, dan sistem level yang bikin ketagihan. Ditemani Crabi, karakter pendamping yang siap nemenin proses belajar kamu.
 
