@@ -22,7 +22,7 @@ jobs:
       - name: Install & Build
         run: |
           npm install
-          npx cap copy
+          npx cap sync android
           cd android
           chmod +x gradlew
           ./gradlew assembleDebug
