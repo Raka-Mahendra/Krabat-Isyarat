@@ -80,8 +80,6 @@ Silakan mengunduh versi terbaru melalui Google Drive:
 
 ![Game](assets/game.jpeg)
 
-![Level](assets/level.jpeg)
-
 ---
 
 # 🛠 Teknologi
